@@ -3,8 +3,6 @@
 A Power BI dashboard analyzing premature NCD mortality (% of total NCD deaths) by income group, region, and gender — designed for public health insights.
 
 
----
-
 ## Project Overview
 
 This project explores the burden of **non-communicable diseases (NCDs)** using official data from the **World Health Organization (WHO)**. The dashboard focuses on **premature deaths (before age 70)** due to NCDs, providing global insights across:
@@ -14,7 +12,6 @@ This project explores the burden of **non-communicable diseases (NCDs)** using o
 - Gender (male vs female)
 
 
----
 
 ## Key Metrics
 
@@ -25,7 +22,6 @@ This project explores the burden of **non-communicable diseases (NCDs)** using o
 - **Gender Gap in Probability of Dying**
 
 
----
 
 ## Visuals Included
 
@@ -38,7 +34,6 @@ This project explores the burden of **non-communicable diseases (NCDs)** using o
 | Column Chart    | Premature NCD Deaths by Income Group                            |
 | Table Chart     | Top 10 Countries by Premature NCD Death Rate                    |
 
----
 
 
 ## Data Source
@@ -47,26 +42,23 @@ This project explores the burden of **non-communicable diseases (NCDs)** using o
 - **Dataset Theme:** Non-Communicable Diseases – Mortality
 - **Access:** [WHO Global Health Observatory](https://www.who.int/data/gho)
 
----
 
-## 🧰 Tools Used
+## Tools Used
 
 - Power BI (Data Modeling, Visuals)
 - DAX (Data Analysis Expressions)
 - CSV datasets from WHO
 
----
 
-## 💡 Key Insights
+## Key Insights
 
 - Over **40%** of NCD related mortality occured before the age of 70.
 - **Low-income countries** account for the highest burden of premature NCD deaths.
 - Noticeable **gender and regional disparities** exist in NCD mortality patterns.
 - Noticeable decline in the Global trend for premature NCD deaths.
 
----
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](./images/ncd_dashboard2.PNG)
 
