@@ -40,7 +40,7 @@ This project explores the burden of **non-communicable diseases (NCDs)** using o
 
 - **Organization:** World Health Organization (WHO)
 - **Dataset Theme:** Non-Communicable Diseases – Mortality
-- **Access:** [WHO Global Health Observatory](https://www.who.int/data/gho)
+- **Access:** [WHO Global Health Observatory](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/ncd-mortality)
 
 
 ## Tools Used
