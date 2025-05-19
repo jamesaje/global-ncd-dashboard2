@@ -68,7 +68,7 @@ This project explores the burden of **non-communicable diseases (NCDs)** using o
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./images/ncd_dashboard.png)
+![Dashboard Preview](./images/ncd_dashboard2.PNG)
 
 ---
 
